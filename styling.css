@@ -1,0 +1,261 @@
+body{
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  margin: 0;
+
+}
+.p-snappy-process{
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+width: 330px;
+  color: #808080;
+}
+.p-affordable-prices{
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+width: 98%;
+  color: #808080;
+}
+.p-people-first{
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+
+  color: #808080;
+}
+.insure{
+  display: inline-block;
+font-family: 'Karla', sans-serif;
+
+
+
+}
+.top-container{
+  padding-top: 100px;
+height: 520px;
+  background-color: #342056;
+
+}
+.humanizing-your-insurance{
+  line-height: 1;
+  width: 40%;
+  display:inline-block;
+  font-family: 'DM Serif Display', serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 70px;
+  margin-bottom: 1%;
+  margin-left: 12%;
+
+}
+.we-are-different{
+  width: 40%;
+
+  font-family: 'DM Serif Display', serif;
+  font-weight: 400;
+
+  font-size: 70px;
+  margin-left: 12%
+}
+.rule-1{
+width: 10%;
+border-bottom: none;
+border-left: none;
+border-right: none;
+margin-left: 12%;
+color: #ffffff;
+
+}
+.rule-2{
+  margin-top: 380px;
+  color: #ffffff;
+  width: 10%;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  margin-left: 12%;
+}
+.btn-view-plans{
+    font-family: 'Karla', sans-serif;
+  display: inline-block;
+  padding: 4px 10px 4px 10px;
+  border-style: solid;
+  border-width: 1.5px;
+  text-decoration: none;
+  border-color: #40514E;
+  color: black;
+  weight:400;
+}
+.upper-links{
+display: inline-block;
+  text-decoration: none;
+  color: #d3d3d3;
+  weight:400;
+    font-family: 'Karla', sans-serif;
+}
+.intro-text{
+
+  width: 36%;
+  color: #ffffff;
+  font-weight: 400;
+  line-height: 2;
+  margin-left: 12%;
+margin-right: 0.1%;
+}
+
+.intro-image{
+  float: right;
+margin-right: 12%;
+
+
+}
+.left-intro-image{
+  position: relative;
+right: 20%;
+bottom: 7px;
+
+
+}
+.right-intro-image{
+position: relative;
+left: 72%;
+bottom: 954px;
+color: #ffffff;
+}
+.btn-view-plans-2{
+  font-family: 'Karla', sans-serif;
+
+color: #ffffff;
+position: relative;
+bottom: 450px;
+  padding: 4px 10px 4px 10px;
+  border-style: solid;
+  border-width: 1.5px;
+  text-decoration: none;
+
+  border-color: #ffffff;
+  margin-left: 12%;
+
+}
+
+.snappy-process{
+display: inline-block;
+width: 20%;
+margin-left: 12%;
+margin-right: 4%;
+padding-bottom: 10%;
+weight:400;
+}
+.affordable-prices{
+  display: inline-block;
+width: 24%;
+margin-right: 3%;
+padding-bottom: 10%;
+weight:400;
+}
+.people-first{
+  display: inline-block;
+width: 23%;
+padding-bottom: 10%;
+weight:400;
+}
+.table-upper-links{
+  display: inline-block;
+margin-left: 43%;
+}
+.table-insure{
+  display: inline-block;
+  margin-left: 12%;
+}
+.find-out{
+  background-color: #342056;
+  margin-left: 12%;
+  margin-right: 12%;
+  margin-bottom: 180px;
+height: 251px;
+
+}
+.find-out-more{
+line-height: 1;
+  display:inline-block;
+  font-family: 'DM Serif Display', serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 70px;
+  margin-left: 12%
+}
+.btn-how-we-work{
+  display: inline-block;
+  weight:400;
+  color: #ffffff;
+  padding: 8px 20px 8px 20px;
+  border-style: solid;
+  border-width: 1.5px;
+  text-decoration: none;
+  font-family: 'Karla', sans-serif;
+  border-color: #ffffff;
+  margin-left:   14.7%;
+  position: relative;
+  bottom: 48px;
+}
+.image-how-we-work{
+
+  position: relative;
+  bottom:232px;
+  left: 62.4%;
+}
+.insure-bottom{
+  display: inline-block;
+  font-family: 'Karla', sans-serif;
+  weight:700;
+}
+.table-lower-links{
+  display: inline-block;
+}
+.table-insure-bottom{
+  display: inline-block;
+  margin-left: 12%;
+}
+.table-lower-links{
+  display: inline-block;
+  margin-left: 59%;
+}
+.bottom-container{
+  background-color:#f2f2f2;
+  padding-top: 30px;
+  height: 400px;
+}
+.rule-3{
+  width: 75%;
+border: solid 1px;
+  color:  #d3d3d3;
+
+
+}
+.footer-image{
+  position: relative;
+  bottom: 125px;
+}
+.table-bottom-headings{
+  text-align: left;
+position: relative;
+bottom: 180px;
+
+  font-family: 'Karla', sans-serif;
+  margin-left: 12%;
+  width: 75%;
+
+
+}
+.bottom-headings{
+  text-decoration: none;
+  font-family: 'Karla', sans-serif;
+  weight:400;
+  color: #808080;
+padding-bottom: 40px;
+}
+.bottom-links{
+color: #1b1b1b;
+line-height: 2;
+weight:400;
+  font-family: 'Karla', sans-serif;
+}
